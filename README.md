@@ -1,5 +1,5 @@
 # shmem-sync-benchmarks
-Benchmarks for `shmem_sync_all` function at SHMEM.
+Benchmarks for `shmem_sync_all` function.
 
 # Compile
 ```
