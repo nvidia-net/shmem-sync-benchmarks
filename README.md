@@ -1,5 +1,5 @@
 # shmem-sync-benchmarks
-Benchmarks for `shmem_sync_all` function.
+Benchmarks for `shmem_sync_all`/`shmem_barrier_all`/`SOL` function.
 
 # Compile
 ```
